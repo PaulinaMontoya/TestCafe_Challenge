@@ -16,6 +16,7 @@
 3) Ensure you have the testcafe and dotenv library installed with the commands:
 
     `npm testcafe -v`
+
     `npm dotenv -v`
 
 4) Run the project in different browsers with the next commands:
@@ -28,14 +29,14 @@
 
 Passed the 9 test cases successfully in Chrome, Firefox and Edge browsers
 
-    ![](https://i.ibb.co/94npczW/TestPic.png)
+    ![Expected Results](https://i.ibb.co/94npczW/TestPic.png)
 
-### Libraries:
+## Libraries:
 
-    - testcafe
-    - dotenv
+    - **testcafe**
+    - **dotenv**
 
-#### Created by:
+## Created by:
 
 Paulina Montoya
 
