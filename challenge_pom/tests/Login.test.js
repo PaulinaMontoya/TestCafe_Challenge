@@ -4,7 +4,6 @@ import { URLS, CREDENTIALS } from '../pages/data/Constants'
 
 fixture ('Login feature test')
     .page (`${URLS.LOGING_PAGE}`)
-    .only
     
 
 test ('User loging successfully with standard user', async t =>{

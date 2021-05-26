@@ -7,10 +7,10 @@ export const URLS = {
 
 export const CREDENTIALS = {
     CORRECT_USER:{
-        USERNAME: process.env.USERNAME,
-        PASSWORD: process.env.PASSWORD
-
+        USERNAME: process.env.USERNAMEENV,
+        PASSWORD: process.env.PASSWORDENV
     },
+    
     INCORRECT_USER:{
         USERNAME: process.env.INVALIDUSERNAME,
         PASSWORD: process.env.INVALIDPASSWORD
